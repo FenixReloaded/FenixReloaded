@@ -1,7 +1,7 @@
 <h1 align="center">Caio Pereira Guimarães</h1>
 <p align="center">Desenvolvedor de Software | Engenheiro de Software</p>
 
-### Sobre mim
+### Sobre mim:
 
 Estudante de Ciência da Computação na PUC-SP focado em desenvolvimento e engenharia de software.
 
