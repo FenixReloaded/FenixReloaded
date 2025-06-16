@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ---
 <h3>GitHub Status</h3>
+
 ![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true&theme=github_dark_dimmed)
 
 <picture>
