@@ -1,6 +1,8 @@
 <h1 align="center">Caio Pereira Guimarães</h1>
 <p align="center">Desenvolvedor de Software | Engenheiro de Software</p>
 
+---
+
 <h3>Sobre mim:</h3>
   
 <!--
@@ -18,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
+
 <h3>📊Tecnologias:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -38,6 +41,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixReloaded&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+---
 
 <div align="center">
 <picture>
@@ -55,3 +59,5 @@ Here are some ideas to get you started:
   <a href="mailto:cpg.contato.networking@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://instagram.com/https://www.instagram.com/caio_kabooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
+
+---
