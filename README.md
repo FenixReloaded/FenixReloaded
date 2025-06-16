@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<h3>GitHub Status:</h3>
+<h3>📱GitHub Status:</h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixReloaded&layout=compact&langs_count=7&theme=dracula"/>
@@ -47,4 +47,8 @@ Here are some ideas to get you started:
 </div>
 
 <h3>🌐Contato e Redes:</h3>
-
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/caiopguimaraes//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:cpg.contato.networking@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://instagram.com/https://www.instagram.com/caio_kabooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</div>
