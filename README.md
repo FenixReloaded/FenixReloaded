@@ -1,7 +1,14 @@
 <h1 align="center">Caio Pereira Guimarães</h1>
 <p align="center">Desenvolvedor de Software | Engenheiro de Software</p>
 
-<h3>Sobre mim:</h3>
+<h3>Sobre mim:
+Estudante de Ciência da Computação na PUC-SP focado em desenvolvimento e engenharia de software.
+
+    🚀 Apaixonado por transformar desafios técnicos em software de qualidade.
+    🤝 Comprometido, proativo e valorizo muito o trabalho em equipe e ambientes colaborativos.
+    💡 Buscando constantemente expandir meu conhecimento e alcançar a excelência técnica.
+    🎯 Meu objetivo é crescer como profissional e agregar valor real aos projetos em que me envolvo.
+</h3>
   
 <!--
 **FenixReloaded/FenixReloaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
