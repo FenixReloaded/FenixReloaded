@@ -1,6 +1,7 @@
 <h1 align="center">Caio Pereira Guimarães</h1>
 <p align="center">Desenvolvedor de Software | Engenheiro de Software</p>
-###Sobre mim:
+
+<h3>Sobre mim:</h3>
   
 <!--
 **FenixReloaded/FenixReloaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<h3>📊Tecnologias</h3>
+<h3>📊Tecnologias:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<h3>GitHub Status</h3>
+<h3>GitHub Status:</h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixReloaded&layout=compact&langs_count=7&theme=dracula"/>
