@@ -1,8 +1,6 @@
 <h1 align="center">Caio Pereira Guimarães</h1>
 <p align="center">Desenvolvedor de Software | Engenheiro de Software</p>
 
----
-
 <h3>Sobre mim:</h3>
   
 <!--
