@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
 <h3>📱GitHub Status:</h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -45,6 +46,8 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FenixReloaded/FenixReloaded/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+---
 
 <h3>🌐Contato e Redes:</h3>
 <div align="center"> 
