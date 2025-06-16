@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-<h3>📊Tecnologias:</h3>
+### 📊Tecnologias:
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
