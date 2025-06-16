@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixReloaded&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true&theme=github_dark_dimmed)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FenixReloaded/FenixReloaded/output/github-contribution-grid-snake-dark.svg">
