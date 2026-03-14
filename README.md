@@ -1,14 +1,14 @@
 <h1 align="center">Caio Pereira Guimarães</h1>
 <p align="center">Desenvolvedor de Software | Engenheiro de Software</p>
 
-### 🪪Sobre mim:
+### -> Sobre mim:
 
 Estudante de Ciência da Computação na PUC-SP focado em desenvolvimento e engenharia de software.
 
-* 🚀 Apaixonado por transformar desafios técnicos em software de qualidade.
-* 🤝 Comprometido, proativo e valorizo muito o trabalho em equipe e ambientes colaborativos.
-* 💡 Buscando constantemente expandir meu conhecimento e alcançar a excelência técnica.
-* 🎯 Meu objetivo é crescer como profissional e agregar valor real aos projetos em que me envolvo.
+*  ★ Apaixonado por transformar desafios técnicos em software de qualidade.
+*  ★ Comprometido, proativo e valorizo muito o trabalho em equipe e ambientes colaborativos.
+*  ★ Buscando constantemente expandir meu conhecimento e alcançar a excelência técnica.
+*  ★ Meu objetivo é crescer como profissional e agregar valor real aos projetos em que me envolvo.
 
   
 <!--
@@ -16,18 +16,18 @@ Estudante de Ciência da Computação na PUC-SP focado em desenvolvimento e enge
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ★ I’m currently working on ...
+-  ★ I’m currently learning ...
+-  ★ I’m looking to collaborate on ...
+-  ★ I’m looking for help with ...
+-  ★ Ask me about ...
+-  ★ How to reach me: ...
+-  ★ Pronouns: ...
+-  ★ Fun fact: ...
 -->
 ---
 
-### 📊Tecnologias:
+### -> Tecnologias:
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📱GitHub Status:
+### -> GitHub Status:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenixReloaded&layout=compact&langs_count=7&theme=dracula"/>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌐Contato e Redes:
+### -> Contato e Redes:
 <div align="center"> 
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/caiopguimaraes//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:cpg.contato.networking@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
