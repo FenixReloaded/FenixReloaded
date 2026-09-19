@@ -5,10 +5,10 @@
 
 Estudante de Ciência da Computação na PUC-SP focado em desenvolvimento e engenharia de software.
 
-*  ★ Apaixonado por transformar desafios técnicos em software de qualidade.
-*  ★ Comprometido, proativo e valorizo muito o trabalho em equipe e ambientes colaborativos.
-*  ★ Buscando constantemente expandir meu conhecimento e alcançar a excelência técnica.
-*  ★ Meu objetivo é crescer como profissional e agregar valor real aos projetos em que me envolvo.
+★ Apaixonado por transformar desafios técnicos em software de qualidade.
+★ Comprometido, proativo e valorizo muito o trabalho em equipe e ambientes colaborativos.
+★ Buscando constantemente expandir meu conhecimento e alcançar a excelência técnica.
+★ Meu objetivo é crescer como profissional e agregar valor real aos projetos em que me envolvo.
 
   
 <!--
